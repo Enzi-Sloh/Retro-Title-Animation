@@ -1,0 +1,107 @@
+div {
+    background: #d72608;
+    width: 5.2px;
+    height: 5.2px;
+    
+    box-shadow:
+    // first my pixel character starting with the red "circle"
+      5px 5px  #d72608,
+      -5px 5px #d72608,
+      0px 10px #d72608,
+// fill computer in
+      -20px -5px #383838,
+      -15px -5px #383838,
+      -10px -5px #383838,
+      -5px -5px #383838,
+      0px -5px #383838,
+      5px -5px #383838,
+      10px -5px #383838,
+      15px -5px #383838,
+      -20px 0px #383838,
+      -15px 0px #383838,
+      -10px 0px #383838,
+      -5px 0px #383838,
+      5px 0px #383838,
+      10px 0px #383838,
+      15px 0px #383838,
+      -15px 5px #383838,
+      -10px 5px #383838,
+      0px 5px #383838,
+      10px 5px #383838,
+      15px 5px #383838,
+      20px 5px #383838,
+      -15px 10px #383838,
+      -10px 10px #383838,
+      -5px 10px #383838,
+      5px 10px #383838,
+      10px 10px #383838,
+      15px 10px #383838,
+      20px 10px #383838,
+      -15px 15px #383838,
+      -10px 15px #383838,
+      -5px 15px #383838,
+      0px 15px #383838,
+      5px 15px #383838,
+      10px 15px #383838,
+      15px 15px #383838,
+      20px 15px #383838,
+      -10px 20px #383838,
+      -5px 20px #383838,
+      0px 20px #383838,
+      5px 20px #383838,
+      10px 20px #383838,
+      15px 20px #383838,
+      20px 20px #383838,
+      25px 20px #383838,
+      35px 20px #383838,
+      35px 25px #383838,
+      //computer border next
+      -25px -10px #151714,
+      -20px -10px #151714,
+      -15px -10px #151714,
+      -10px -10px #151714,
+      -5px -10px #151714,
+      0px -10px #151714,
+      5px -10px #151714,
+      10px -10px #151714,
+      15px -10px #151714,
+      20px -10px #151714,
+      -25px -5px #151714,
+      -25px 0px #151714,
+      -20px 5px #151714,
+      -20px 10px #151714,
+      -20px 15px #151714,
+      -15px 20px #151714,
+      -15px 25px #151714,
+      -10px 25px #151714,
+      -5px 25px #151714,
+      0px 25px #151714,
+      5px 25px #151714,
+      10px 25px #151714,
+      15px 25px #151714,
+      20px 25px #151714,
+      25px 25px #151714,
+      30px 25px #151714,
+      40px 25px #151714,
+      40px 20px #151714,
+      30px 20px #151714,
+      25px 15px #151714,
+      25px 10px #151714,
+      25px 5px #151714,
+      20px 0px #151714,
+      20px -5px #151714,
+      //
+
+
+  }
+  
+  
+  
+  html, body {
+    height: 100%;
+  }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
