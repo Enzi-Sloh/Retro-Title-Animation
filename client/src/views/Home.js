@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Title from '../components/PixelTitle'
+import Title from '../components/TitleScreen'
 
 const Home = () =>{
 
